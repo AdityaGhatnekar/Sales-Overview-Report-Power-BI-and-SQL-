@@ -182,6 +182,11 @@ Below is the screenshot how Sales fact table connects with other dimension table
 
 ![Data Model Screenshot  1](https://github.com/user-attachments/assets/b53b456f-9266-4d4f-90d7-9acef1dcf3e0)
 
+### Sales Report
+
+To further browse the dashboard click the picture and try it out.
+
+![Project Screenshot](https://github.com/user-attachments/assets/df36f0dd-89a7-4278-a8e4-2118c9ec35b0)
 
 
 
