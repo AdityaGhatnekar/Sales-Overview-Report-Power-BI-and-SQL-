@@ -190,7 +190,7 @@ Below is the screenshot how Sales fact table connects with other dimension table
 
 To further browse the report click the picture and try it out.
 
-[![Project Screenshot](https://github.com/user-attachments/assets/df36f0dd-89a7-4278-a8e4-2118c9ec35b0)](!https://app.fabric.microsoft.com/view?r=eyJrIjoiMWZkMmVkY2QtMmMzOC00NDg0LTg5ZGYtNTRkMzQ1MjhiN2ZiIiwidCI6IjgyYTIxMTg1LTQyMGUtNDFlOS05OGQ5LTM4YzQ2YzY1ZWZjYyJ9&embedImagePlaceholder=true&pageName=76e7b7e7f32d7b61f7e1!)
+[![Project Screenshot](https://github.com/user-attachments/assets/df36f0dd-89a7-4278-a8e4-2118c9ec35b0)](<iframe title="Sales and Customers Overview" width="600" height="373.5" src="https://app.fabric.microsoft.com/view?r=eyJrIjoiMWZkMmVkY2QtMmMzOC00NDg0LTg5ZGYtNTRkMzQ1MjhiN2ZiIiwidCI6IjgyYTIxMTg1LTQyMGUtNDFlOS05OGQ5LTM4YzQ2YzY1ZWZjYyJ9&embedImagePlaceholder=true&pageName=76e7b7e7f32d7b61f7e1" frameborder="0" allowFullScreen="true"></iframe>)
 
 
 [![Project Screenshot 1](https://github.com/user-attachments/assets/d7ee3f97-df9f-4e44-8869-3a3b10a5a306)](!https://app.fabric.microsoft.com/view?r=eyJrIjoiMWZkMmVkY2QtMmMzOC00NDg0LTg5ZGYtNTRkMzQ1MjhiN2ZiIiwidCI6IjgyYTIxMTg1LTQyMGUtNDFlOS05OGQ5LTM4YzQ2YzY1ZWZjYyJ9&embedImagePlaceholder=true&pageName=76e7b7e7f32d7b61f7e1!)
