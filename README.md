@@ -14,6 +14,10 @@ Net Profit: Calculate and display the net profit, taking into account revenue an
 
 Budget: Monitor and compare the actual sales against the budget.
 
+Top Customers: Manage and understand top customers for the team to keep following up.
+
+Customer Demographics: Understanding top demographics of customers to help team approach similar demographics.
+
 ### Data Cleaning and Transformation
 
 To create data model neccessary tables were cleaned and transformed with SQL. The 'Sales Budget' table was created on excel and connected later on Power BI on a later step.
@@ -184,9 +188,13 @@ Below is the screenshot how Sales fact table connects with other dimension table
 
 ### Sales Report
 
-To further browse the dashboard click the picture and try it out.
+To further browse the report click the picture and try it out.
 
 ![Project Screenshot](https://github.com/user-attachments/assets/df36f0dd-89a7-4278-a8e4-2118c9ec35b0)
+
+
+![Project Screenshot 1](https://github.com/user-attachments/assets/d7ee3f97-df9f-4e44-8869-3a3b10a5a306)
+
 
 
 
